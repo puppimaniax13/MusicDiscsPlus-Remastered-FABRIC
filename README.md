@@ -1,7 +1,8 @@
 # Music Discs Plus (Fabric) [![Versions](https://cf.way2muchnoise.eu/versions/musicdiscsplus_all.svg)](https://www.curseforge.com/minecraft/mc-mods/musicdiscsplus) [![Downloads](https://cf.way2muchnoise.eu/full_musicdiscsplus_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/musicdiscsplus)
-This mod will add a variety of music discs with songs provided by you! Resource pack dependant!
 
-[![License](https://img.shields.io/github/license/puppimaniax13/MusicDiscsPlus-Remastered?color=pink&style=for-the-badge)](https://github.com/puppimaniax13/MusicDiscsPlus-Remastered/blob/main/LICENSE)[![Most Recent Commit](https://img.shields.io/github/last-commit/puppimaniax13/MusicDiscsPlus-Remastered?color=pink&style=for-the-badge)]()[![File Size](https://img.shields.io/github/repo-size/puppimaniax13/MusicDiscsPlus-Remastered?color=pink&style=for-the-badge)]()[![Latest Release](https://img.shields.io/github/v/release/puppimaniax13/MusicDiscsPlus-Remastered?color=pink&style=for-the-badge)]()
+[![Latest Release](https://img.shields.io/github/v/release/puppimaniax13/MusicDiscsPlus-Remastered?color=pink&style=for-the-badge)]()[![File Size](https://img.shields.io/github/repo-size/puppimaniax13/MusicDiscsPlus-Remastered?color=pink&style=for-the-badge)]()[![Most Recent Commit](https://img.shields.io/github/last-commit/puppimaniax13/MusicDiscsPlus-Remastered?color=pink&style=for-the-badge)]()[![License](https://img.shields.io/github/license/puppimaniax13/MusicDiscsPlus-Remastered?color=pink&style=for-the-badge)](https://github.com/puppimaniax13/MusicDiscsPlus-Remastered/blob/main/LICENSE)
+
+This mod will add a variety of music discs with songs provided by you! Resource pack dependant!
 
 ## How to Customize Your Resourcepack
 First you will want to download the [resource pack](https://github.com/puppimaniax13/MusicDiscsPlus-Resource-Pack). In order to edit it you will need to extract the files, **Windows** should allow you to do so without any 3rd party program, just right click on the folder and click ***Extract All***. If you do not have this then you will need to use a third party program to extract the files such as *WinRA*R or *7ZIP*.
@@ -51,7 +52,20 @@ If you want your Music Disc to be **Mono** then you will need a program to chang
 This is a demo of how to do such in [**Audacity**](https://www.audacityteam.org/download/).
 
 ![Demo](/disc_ogg_help.gif)
+
+#### Most Important - Save your file as "disc_###" otherwise it will not be playable in minecraft!
 ______________
+
+### Textures
+
+When you open the **textures** file you will see another file called "**items**", open that as well. Inside of **items** you will see 144 files that are labled as **disc_001** through **disc_144**. These are how the music discs show up in Minecraft.
+
+To edit the textures you can use an online Sprite maker such as [PixilArt](https://www.pixilart.com/). You can make it look as different or similar as you like. Try to keep the file size the same as 16x16 pixels, otherwise the resource pack size will start to grow with larger file sizes.
+
+#### Make sure to save the file as "disc_###" otherwise the texture will not be replaced.
+
+______________
+
 ### Lang
 When opening the **lang** folder you will find a file titled [**en_us.json**](https://github.com/puppimaniax13/MusicDiscsPlus-Resource-Pack/blob/main/MusicDiscsPlusResourcePack/assets/musicdiscsplus-pupp/lang/en_us.json). To edit this you will once again need some form of text editor that can open ***.json*** files. When you open **en_us.sjon** it will look similar to this. 
 ```json
@@ -68,8 +82,12 @@ When opening the **lang** folder you will find a file titled [**en_us.json**](ht
 "item.musicdiscsplus-pupp.disc_010.desc": "Artist - Song Name",
 ...}
 ```
-You can format how you want the music disc to be displayed with this code. Each name will correspond with what you put for the music in the sounds file. If your file is titled "**disc_004.ogg**" then you will need to change the ```json "item.musicdiscsplus-pupp.disc_004.desc": "Ben Prunty - Color Sky",``` line to match the song you put for "**disc_004.ogg**". The proper Minecraft formating would be `"Artist - Song Name"`
+You can format how you want the music disc to be displayed with this code. Each name will correspond with what you put for the music in the sounds file. The proper Minecraft formating would be `"Artist - Song Name"`
 
 #### Do this for each song that you add to keep track of which disc they are inside of Minecraft.
 
 ____________
+
+## Contributers
+
+At the moment I am a Solo-Developer, a team/group would be nice to work with. I do not have a discord server either but feel free to contact me if you want to start or have me join your team. Any role would be nice, even someone to maintain a discord server.
