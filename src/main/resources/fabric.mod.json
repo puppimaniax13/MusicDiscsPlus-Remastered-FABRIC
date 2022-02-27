@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "musicdiscsplus-pupp",
+  "id": "musicdiscsplus",
   "version": "${version}",
 
   "name": "Music Discs Plus",
@@ -14,7 +14,7 @@
   },
 
   "license": "MIT",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/musicdiscsplus/icon.png",
 
   "environment": "*",
   "entrypoints": {
@@ -23,7 +23,7 @@
     ]
   },
   "mixins": [
-    "musicdiscsplus-pupp.mixins.json"
+    "musicdiscsplus.mixins.json"
   ],
 
   "depends": {

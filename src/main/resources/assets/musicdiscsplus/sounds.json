@@ -1,0 +1,1154 @@
+{
+  "disc_001": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_001",
+        "stream": true
+      }
+    ]
+  },
+  "disc_002": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_002",
+        "stream": true
+      }
+    ]
+  },
+  "disc_003": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_003",
+        "stream": true
+      }
+    ]
+  },
+  "disc_004": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_004",
+        "stream": true
+      }
+    ]
+  },
+  "disc_005": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_005",
+        "stream": true
+      }
+    ]
+  },
+  "disc_006": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_006",
+        "stream": true
+      }
+    ]
+  },
+  "disc_007": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_007",
+        "stream": true
+      }
+    ]
+  },
+  "disc_008": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_008",
+        "stream": true
+      }
+    ]
+  },
+  "disc_009": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_009",
+        "stream": true
+      }
+    ]
+  },
+  "disc_010": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_010",
+        "stream": true
+      }
+    ]
+  },
+  "disc_011": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_011",
+        "stream": true
+      }
+    ]
+  },
+  "disc_012": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_012",
+        "stream": true
+      }
+    ]
+  },
+  "disc_013": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_013",
+        "stream": true
+      }
+    ]
+  },
+  "disc_014": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_014",
+        "stream": true
+      }
+    ]
+  },
+  "disc_015": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_015",
+        "stream": true
+      }
+    ]
+  },
+  "disc_016": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_016",
+        "stream": true
+      }
+    ]
+  },
+  "disc_017": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_017",
+        "stream": true
+      }
+    ]
+  },
+  "disc_018": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_018",
+        "stream": true
+      }
+    ]
+  },
+  "disc_019": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_019",
+        "stream": true
+      }
+    ]
+  },
+  "disc_020": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_020",
+        "stream": true
+      }
+    ]
+  },
+  "disc_021": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_021",
+        "stream": true
+      }
+    ]
+  },
+  "disc_022": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_022",
+        "stream": true
+      }
+    ]
+  },
+  "disc_023": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_023",
+        "stream": true
+      }
+    ]
+  },
+  "disc_024": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_024",
+        "stream": true
+      }
+    ]
+  },
+  "disc_025": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_025",
+        "stream": true
+      }
+    ]
+  },
+  "disc_026": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_026",
+        "stream": true
+      }
+    ]
+  },
+  "disc_027": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_027",
+        "stream": true
+      }
+    ]
+  },
+  "disc_028": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_028",
+        "stream": true
+      }
+    ]
+  },
+  "disc_029": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_029",
+        "stream": true
+      }
+    ]
+  },
+  "disc_030": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_030",
+        "stream": true
+      }
+    ]
+  },
+  "disc_031": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_031",
+        "stream": true
+      }
+    ]
+  },
+  "disc_032": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_032",
+        "stream": true
+      }
+    ]
+  },
+  "disc_033": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_033",
+        "stream": true
+      }
+    ]
+  },
+  "disc_034": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_034",
+        "stream": true
+      }
+    ]
+  },
+  "disc_035": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_035",
+        "stream": true
+      }
+    ]
+  },
+  "disc_036": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_036",
+        "stream": true
+      }
+    ]
+  },
+  "disc_037": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_037",
+        "stream": true
+      }
+    ]
+  },
+  "disc_038": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_038",
+        "stream": true
+      }
+    ]
+  },
+  "disc_039": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_039",
+        "stream": true
+      }
+    ]
+  },
+  "disc_040": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_040",
+        "stream": true
+      }
+    ]
+  },
+  "disc_041": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_041",
+        "stream": true
+      }
+    ]
+  },
+  "disc_042": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_042",
+        "stream": true
+      }
+    ]
+  },
+  "disc_043": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_043",
+        "stream": true
+      }
+    ]
+  },
+  "disc_044": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_044",
+        "stream": true
+      }
+    ]
+  },
+  "disc_045": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_045",
+        "stream": true
+      }
+    ]
+  },
+  "disc_046": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_046",
+        "stream": true
+      }
+    ]
+  },
+  "disc_047": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_047",
+        "stream": true
+      }
+    ]
+  },
+  "disc_048": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_048",
+        "stream": true
+      }
+    ]
+  },
+  "disc_049": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_049",
+        "stream": true
+      }
+    ]
+  },
+  "disc_050": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_050",
+        "stream": true
+      }
+    ]
+  },
+  "disc_051": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_051",
+        "stream": true
+      }
+    ]
+  },
+  "disc_052": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_052",
+        "stream": true
+      }
+    ]
+  },
+  "disc_053": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_053",
+        "stream": true
+      }
+    ]
+  },
+  "disc_054": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_054",
+        "stream": true
+      }
+    ]
+  },
+  "disc_055": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_055",
+        "stream": true
+      }
+    ]
+  },
+  "disc_056": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_056",
+        "stream": true
+      }
+    ]
+  },
+  "disc_057": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_057",
+        "stream": true
+      }
+    ]
+  },
+  "disc_058": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_058",
+        "stream": true
+      }
+    ]
+  },
+  "disc_059": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_059",
+        "stream": true
+      }
+    ]
+  },
+  "disc_060": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_060",
+        "stream": true
+      }
+    ]
+  },
+  "disc_061": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_061",
+        "stream": true
+      }
+    ]
+  },
+  "disc_062": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_062",
+        "stream": true
+      }
+    ]
+  },
+  "disc_063": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_063",
+        "stream": true
+      }
+    ]
+  },
+  "disc_064": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_064",
+        "stream": true
+      }
+    ]
+  },
+  "disc_065": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_065",
+        "stream": true
+      }
+    ]
+  },
+  "disc_066": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_066",
+        "stream": true
+      }
+    ]
+  },
+  "disc_067": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_067",
+        "stream": true
+      }
+    ]
+  },
+  "disc_068": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_068",
+        "stream": true
+      }
+    ]
+  },
+  "disc_069": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_069",
+        "stream": true
+      }
+    ]
+  },
+  "disc_070": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_070",
+        "stream": true
+      }
+    ]
+  },
+  "disc_071": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_071",
+        "stream": true
+      }
+    ]
+  },
+  "disc_072": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_072",
+        "stream": true
+      }
+    ]
+  },
+  "disc_073": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_073",
+        "stream": true
+      }
+    ]
+  },
+  "disc_074": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_074",
+        "stream": true
+      }
+    ]
+  },
+  "disc_075": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_075",
+        "stream": true
+      }
+    ]
+  },
+  "disc_076": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_076",
+        "stream": true
+      }
+    ]
+  },
+  "disc_077": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_077",
+        "stream": true
+      }
+    ]
+  },
+  "disc_078": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_078",
+        "stream": true
+      }
+    ]
+  },
+  "disc_079": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_079",
+        "stream": true
+      }
+    ]
+  },
+  "disc_080": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_080",
+        "stream": true
+      }
+    ]
+  },
+  "disc_081": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_081",
+        "stream": true
+      }
+    ]
+  },
+  "disc_082": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_082",
+        "stream": true
+      }
+    ]
+  },
+  "disc_083": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_083",
+        "stream": true
+      }
+    ]
+  },
+  "disc_084": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_084",
+        "stream": true
+      }
+    ]
+  },
+  "disc_085": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_085",
+        "stream": true
+      }
+    ]
+  },
+  "disc_086": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_086",
+        "stream": true
+      }
+    ]
+  },
+  "disc_087": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_087",
+        "stream": true
+      }
+    ]
+  },
+  "disc_088": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_088",
+        "stream": true
+      }
+    ]
+  },
+  "disc_089": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_089",
+        "stream": true
+      }
+    ]
+  },
+  "disc_090": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_090",
+        "stream": true
+      }
+    ]
+  },
+  "disc_091": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_091",
+        "stream": true
+      }
+    ]
+  },
+  "disc_092": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_092",
+        "stream": true
+      }
+    ]
+  },
+  "disc_093": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_093",
+        "stream": true
+      }
+    ]
+  },
+  "disc_094": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_094",
+        "stream": true
+      }
+    ]
+  },
+  "disc_095": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_095",
+        "stream": true
+      }
+    ]
+  },
+  "disc_096": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_096",
+        "stream": true
+      }
+    ]
+  },
+  "disc_097": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_097",
+        "stream": true
+      }
+    ]
+  },
+  "disc_098": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_098",
+        "stream": true
+      }
+    ]
+  },
+  "disc_099": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_099",
+        "stream": true
+      }
+    ]
+  },
+  "disc_100": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_100",
+        "stream": true
+      }
+    ]
+  },
+  "disc_101": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_101",
+        "stream": true
+      }
+    ]
+  },
+  "disc_102": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_102",
+        "stream": true
+      }
+    ]
+  },
+  "disc_103": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_103",
+        "stream": true
+      }
+    ]
+  },
+  "disc_104": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_104",
+        "stream": true
+      }
+    ]
+  },
+  "disc_105": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_105",
+        "stream": true
+      }
+    ]
+  },
+  "disc_106": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_106",
+        "stream": true
+      }
+    ]
+  },
+  "disc_107": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_107",
+        "stream": true
+      }
+    ]
+  },
+  "disc_108": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_108",
+        "stream": true
+      }
+    ]
+  },
+  "disc_109": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_109",
+        "stream": true
+      }
+    ]
+  },
+  "disc_110": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_110",
+        "stream": true
+      }
+    ]
+  },
+  "disc_111": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_111",
+        "stream": true
+      }
+    ]
+  },
+  "disc_112": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_112",
+        "stream": true
+      }
+    ]
+  },
+  "disc_113": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_113",
+        "stream": true
+      }
+    ]
+  },
+  "disc_114": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_114",
+        "stream": true
+      }
+    ]
+  },
+  "disc_115": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_115",
+        "stream": true
+      }
+    ]
+  },
+  "disc_116": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_116",
+        "stream": true
+      }
+    ]
+  },
+  "disc_117": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_117",
+        "stream": true
+      }
+    ]
+  },
+  "disc_118": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_118",
+        "stream": true
+      }
+    ]
+  },
+  "disc_119": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_119",
+        "stream": true
+      }
+    ]
+  },
+  "disc_120": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_120",
+        "stream": true
+      }
+    ]
+  },
+  "disc_121": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_121",
+        "stream": true
+      }
+    ]
+  },
+  "disc_122": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_122",
+        "stream": true
+      }
+    ]
+  },
+  "disc_123": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_123",
+        "stream": true
+      }
+    ]
+  },
+  "disc_124": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_124",
+        "stream": true
+      }
+    ]
+  },
+  "disc_125": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_125",
+        "stream": true
+      }
+    ]
+  },
+  "disc_126": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_126",
+        "stream": true
+      }
+    ]
+  },
+  "disc_127": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_127",
+        "stream": true
+      }
+    ]
+  },
+  "disc_128": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_128",
+        "stream": true
+      }
+    ]
+  },
+  "disc_129": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_129",
+        "stream": true
+      }
+    ]
+  },
+  "disc_130": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_130",
+        "stream": true
+      }
+    ]
+  },
+  "disc_131": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_131",
+        "stream": true
+      }
+    ]
+  },
+  "disc_132": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_132",
+        "stream": true
+      }
+    ]
+  },
+  "disc_133": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_133",
+        "stream": true
+      }
+    ]
+  },
+  "disc_134": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_134",
+        "stream": true
+      }
+    ]
+  },
+  "disc_135": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_135",
+        "stream": true
+      }
+    ]
+  },
+  "disc_136": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_136",
+        "stream": true
+      }
+    ]
+  },
+  "disc_137": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_137",
+        "stream": true
+      }
+    ]
+  },
+  "disc_138": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_138",
+        "stream": true
+      }
+    ]
+  },
+  "disc_139": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_139",
+        "stream": true
+      }
+    ]
+  },
+  "disc_140": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_140",
+        "stream": true
+      }
+    ]
+  },
+  "disc_141": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_141",
+        "stream": true
+      }
+    ]
+  },
+  "disc_142": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_142",
+        "stream": true
+      }
+    ]
+  },
+  "disc_143": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_143",
+        "stream": true
+      }
+    ]
+  },
+  "disc_144": {
+    "sounds": [
+      {
+        "name": "musicdiscsplus:disc_144",
+        "stream": true
+      }
+    ]
+  }
+}
