@@ -4,7 +4,7 @@
 
 This mod will add a variety of music discs with songs provided by you! Resource pack dependant!
 
-## How to Customize Your Resource Pack
+# How to Customize Your Resource Pack
 First you will want to download the [resource pack](https://github.com/puppimaniax13/MusicDiscsPlus-Resource-Pack). In order to edit it you will need to extract the files, **Windows** should allow you to do so without any 3rd party program, just right-click on the folder and click ***Extract All***. If you do not have this then you will need to use a third party program to extract the files such as *WinRA*R or *7ZIP*.
 
 __________________________________________________________________________________________________________________
